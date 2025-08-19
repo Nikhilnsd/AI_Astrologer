@@ -119,8 +119,8 @@ requests>=2.31.0
 ## 👨‍💻 Author
 
 **Nikhil**
-- Email: nikhil@example.com
-- GitHub: [@yourusername](https://github.com/yourusername)
+- Email: nikhilnsd01@gmail.com
+- GitHub: [Nikhilnsd](https://github.com/Nikhilnsd)
 
 ## 📄 License
 
@@ -138,7 +138,7 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 If you encounter any issues or have questions:
 - Create an issue on GitHub
-- Email: nikhil@example.com
+- Email: nikhilnsd01@gmail.com
 
 ---
 
